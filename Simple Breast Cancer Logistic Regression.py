@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # In[122]:
 
@@ -260,13 +259,12 @@ plt.title("Learning rate =" + str(d["learning_rate"]))
 plt.show()
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
